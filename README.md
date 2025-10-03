@@ -7,7 +7,7 @@ Cyclistic, a bike-share program in Chicago, wants to understand how **casual rid
 The goal is to provide insights that help convert more casual riders into annual members.
 
 ---
-
+Kaggle notebook link : https://www.kaggle.com/code/harshrg2003/cyclistic-bike-share-project
 ## 📊 Business Questions
 1. How do annual members and casual riders use Cyclistic bikes differently?  
 2. Why would casual riders choose to upgrade to annual memberships?  
