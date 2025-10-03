@@ -1,0 +1,22 @@
+# R session files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+*.Rproj
+
+# Knitr / R Markdown temporary files
+*.utf8
+*.knit.md
+*.nb.html
+*.log
+
+# Cache folders (created when knitting)
+_cache/
+*_cache/
+
+# System files
+.DS_Store
+Thumbs.db
